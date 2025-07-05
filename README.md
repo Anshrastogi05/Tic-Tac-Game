@@ -1,2 +1,3 @@
 # Tic-Tac-Game
-#Author - Ansh Rastogi
+<br>
+Author - Ansh Rastogi
